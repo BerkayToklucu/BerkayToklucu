@@ -7,7 +7,7 @@
 
 #### You can contact me here **berkaytoklucu@workmail.com**
 
-<h3 align="left">You can follow me on these social media:</h3>
+<h3 align="left">You can follow me on these social medias:</h3>
 <p align="left">
 <a href="https://codepen.io/berkaytoklucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="berkaytoklucu" height="30" width="40" /></a>
 <a href="https://twitter.com/brkytoklucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brkytoklucu" height="30" width="40" /></a>
