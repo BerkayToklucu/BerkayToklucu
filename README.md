@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaytoklucu&label=Profile%20views&color=0e75b6&style=flat" alt="berkaytoklucu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/brkytoklucu" target="blank"><img src="https://img.shields.io/twitter/follow/brkytoklucu?logo=twitter&style=for-the-badge" alt="brkytoklucu" /></a> </p>
-
-
 #### You can contact me here **berkaytoklucu@workmail.com**
 
 <h3 align="left">You can follow me on these social medias:</h3>
