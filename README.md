@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Berkay </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">My name is Berkay, I'm 17 years old and I'm from Turkey. I love to deal with codes and that's why I've been making web designs with HTML, CSS and Javascript 4 years and converting them to open source code and sharing them on my site. I am not working professionally yet, but I can make any designs you want, you can contact me at the e-mail address or my social media accounts below for your offers and requests. You can check my current and old projects on the site in my profile or you can learn more about me.</h3>
+<h3 align="center">I am a developer who has been dealing with web design & development for 5 years.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaytoklucu&label=Profile%20views&color=0e75b6&style=flat" alt="berkaytoklucu" /> </p>
 
 #### You can contact me here **berkaytoklucu@workmail.com**
