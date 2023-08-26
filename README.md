@@ -1,2 +1,1 @@
 <h1 align="center"><b>Hi, I'm Berkay Toklucu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/34suMP5fG78QH2hnM0RaG1?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
